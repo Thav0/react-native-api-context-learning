@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Thav0/react-native-api-context-learning/blob/master/.github/api-context-react-native.png?raw=true" width="100%">
+</p>
 <h3 align="center">
   API Context - React Native with typescript
 </h3>
